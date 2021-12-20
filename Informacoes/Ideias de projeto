@@ -13,11 +13,18 @@ Criando o modelo:
 6 - Criar um tunning automático com o ParameterGrid
 7 - Comparar os dois modelos
 
+
+Proposta de modelos:
+
 1: Eu posso tentar fazer uma previsão do número de casos de covid por semana epidemiológica em um estado, uma vez que esses dados terão menos ruído.
 Fazer constrate entre os dados diários com os dados de cada semana mostrando como fica muito menos ruidoso.
 
+2: Criar um modelo que preveja o número de óbitos...depois criar um modelo que preveja o número de casos e um modelo que preveja a relação do número de casos com óbitos
+Depois a partir desses dois modelos comparar com o primeiro módelo de número de óbitos direto e fazer uma média e comparar e ver se chega em um resultado melhor.
 
-2: 
+3: Fazer um modelo que cálcula a média móvel e apartir desse chega no valor do número de casos.
+
+
 
 
 
