@@ -1,6 +1,6 @@
 Fazer uma analise dos dados levantando hipoteses e fazendo conclusões:
 
-Procurar ver se existe alguma correlação entre o estado alvo e os outros estados.
+Procurar ver se existe alguma correlação entre o estado alvo e os outros estados. Apartir dessa analise escolher o estado que tem a melhor correlação com os outros.
 
 Target: Número de Óbitos.
 
