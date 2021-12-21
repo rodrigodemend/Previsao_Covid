@@ -1,6 +1,11 @@
-Fazer uma analise dos dados levantando hipoteses e fazendo conclusões:
+Fazer uma analise dos dados levantando hipóteses e fazendo conclusões:
+
+Fazer a limpeza dos dados tentando entender o que significa cada coluna e descrever isso no notebook.
 
 Procurar ver se existe alguma correlação entre o estado alvo e os outros estados. Apartir dessa analise escolher o estado que tem a melhor correlação com os outros.
+Eu posso tentar fazer uma previsão do número de casos de covid por semana epidemiológica em um estado, uma vez que esses dados terão menos ruído.
+Fazer constrate entre os dados diários com os dados de cada semana mostrando como fica muito menos ruidoso.
+
 
 Target: Número de Óbitos.
 
@@ -17,15 +22,12 @@ Criando o modelo:
 
 Fazer uma correlação cruzada entre o número de casos e óbitos para determinar aproximadamente quantos dias depois dos casos os óbitos acontecem.
 
-Proposta de modelos:
+Proposta de modelos alternativos:
 
-1: Eu posso tentar fazer uma previsão do número de casos de covid por semana epidemiológica em um estado, uma vez que esses dados terão menos ruído.
-Fazer constrate entre os dados diários com os dados de cada semana mostrando como fica muito menos ruidoso.
-
-2: Criar um modelo que preveja o número de óbitos...depois criar um modelo que preveja o número de casos e um modelo que preveja a relação do número de casos com óbitos
+1: Criar um modelo que preveja o número de óbitos...depois criar um modelo que preveja o número de casos e um modelo que preveja a relação do número de casos com óbitos
 Depois a partir desses dois modelos comparar com o primeiro módelo de número de óbitos direto e fazer um modelo linear e comparar e ver se chega em um resultado melhor.
 
-3: Fazer um modelo que cálcula a média móvel e apartir desse chega no valor do número de casos.
+2: Fazer um modelo que cálcula a média móvel e apartir desse chega no valor do número de casos.
 
 
 
