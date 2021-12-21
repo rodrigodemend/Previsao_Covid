@@ -1,13 +1,15 @@
 Fazer uma analise dos dados levantando hipoteses e fazendo conclusões:
-Tentar ver se existe uma sazonalidade forte (autocorrelação).
+
 Fazer uma correlação cruzada entre o número de casos e óbitos para determinar aproximadamente quantos dias depois dos casos os óbitos acontecem.
 Procurar ver se existe alguma correlação entre o estado alvo e os outros estados.
-Verificar se a série desejada tem formato exponencial.
+
 
 Criando o modelo:
 1 - Tendência
+1.1 - Verificar se a série desejada tem formato exponencial
 2 - Feriados
 3 - Sazonalidade
+3.1 - Tentar ver se existe uma sazonalidade forte (autocorrelação)
 4 - Outliers
 5 - Avaliação do Modelo
 6 - Criar um tunning automático com o ParameterGrid
@@ -20,7 +22,7 @@ Proposta de modelos:
 Fazer constrate entre os dados diários com os dados de cada semana mostrando como fica muito menos ruidoso.
 
 2: Criar um modelo que preveja o número de óbitos...depois criar um modelo que preveja o número de casos e um modelo que preveja a relação do número de casos com óbitos
-Depois a partir desses dois modelos comparar com o primeiro módelo de número de óbitos direto e fazer uma média e comparar e ver se chega em um resultado melhor.
+Depois a partir desses dois modelos comparar com o primeiro módelo de número de óbitos direto e fazer um modelo linear e comparar e ver se chega em um resultado melhor.
 
 3: Fazer um modelo que cálcula a média móvel e apartir desse chega no valor do número de casos.
 
