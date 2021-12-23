@@ -3,9 +3,6 @@ Fazer uma analise dos dados levantando hipóteses e fazendo conclusões:
 Fazer a limpeza dos dados tentando entender o que significa cada coluna e descrever isso no notebook.
 
 Procurar ver se existe alguma correlação entre o estado alvo e os outros estados. Apartir dessa analise escolher o estado que tem a melhor correlação com os outros.
-Eu posso tentar fazer uma previsão do número de casos de covid por semana epidemiológica em um estado, uma vez que esses dados terão menos ruído.
-Fazer constrate entre os dados diários com os dados de cada semana mostrando como fica muito menos ruidoso.
-
 
 Target: Número de Óbitos.
 
