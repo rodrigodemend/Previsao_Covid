@@ -1,0 +1,84 @@
+holiday,prior_scale,MAE_Mean
+Ano Novo,0.01,7.74
+Ano Novo,0.05,7.56
+Ano Novo,0.1,7.62
+Ano Novo,0.5,7.77
+Ano Novo,1.0,7.65
+Ano Novo,5.0,7.72
+Ano Novo,10.0,7.64
+Carnaval,0.01,7.81
+Carnaval,0.05,7.75
+Carnaval,0.1,7.69
+Carnaval,0.5,7.76
+Carnaval,1.0,7.69
+Carnaval,5.0,7.72
+Carnaval,10.0,7.67
+Sexta-Feira Santa,0.01,7.76
+Sexta-Feira Santa,0.05,7.72
+Sexta-Feira Santa,0.1,7.75
+Sexta-Feira Santa,0.5,7.5
+Sexta-Feira Santa,1.0,7.67
+Sexta-Feira Santa,5.0,7.67
+Sexta-Feira Santa,10.0,7.75
+Dia de Tiradentes,0.01,7.74
+Dia de Tiradentes,0.05,7.79
+Dia de Tiradentes,0.1,7.84
+Dia de Tiradentes,0.5,7.69
+Dia de Tiradentes,1.0,7.69
+Dia de Tiradentes,5.0,7.69
+Dia de Tiradentes,10.0,7.72
+Dia do Trabalho,0.01,7.79
+Dia do Trabalho,0.05,7.78
+Dia do Trabalho,0.1,7.82
+Dia do Trabalho,0.5,7.65
+Dia do Trabalho,1.0,7.78
+Dia do Trabalho,10.0,7.66
+Corpus Christi,0.01,7.82
+Corpus Christi,0.05,7.71
+Corpus Christi,0.1,7.68
+Corpus Christi,0.5,7.68
+Corpus Christi,1.0,7.69
+Corpus Christi,5.0,7.82
+Corpus Christi,10.0,7.65
+Independência do Brasil,0.01,7.86
+Independência do Brasil,0.1,7.84
+Independência do Brasil,0.5,7.65
+Independência do Brasil,5.0,7.71
+Independência do Brasil,10.0,7.76
+Nossa Senhora Aparecida,0.01,7.74
+Nossa Senhora Aparecida,0.05,7.66
+Nossa Senhora Aparecida,0.1,7.61
+Nossa Senhora Aparecida,0.5,7.72
+Nossa Senhora Aparecida,1.0,7.72
+Nossa Senhora Aparecida,5.0,7.58
+Nossa Senhora Aparecida,10.0,7.67
+Dia do Professor,0.01,7.74
+Dia do Professor,0.05,7.62
+Dia do Professor,0.5,7.85
+Dia do Professor,1.0,7.64
+Dia do Professor,5.0,7.85
+Dia do Professor,10.0,7.69
+Dia do Servidor Público,0.01,7.6
+Dia do Servidor Público,0.05,7.68
+Dia do Servidor Público,0.1,7.76
+Dia do Servidor Público,0.5,7.7
+Dia do Servidor Público,1.0,7.63
+Dia do Servidor Público,5.0,7.75
+Dia do Servidor Público,10.0,7.83
+Dia de Finados,0.01,7.77
+Dia de Finados,0.05,7.66
+Dia de Finados,0.1,7.63
+Dia de Finados,0.5,7.62
+Dia de Finados,5.0,7.61
+Dia de Finados,10.0,7.75
+Proclamação da República,0.01,7.65
+Proclamação da República,0.05,7.64
+Proclamação da República,0.1,7.7
+Proclamação da República,0.5,7.7
+Proclamação da República,1.0,7.66
+Proclamação da República,5.0,7.85
+Natal,0.01,7.95
+Natal,0.05,7.66
+Natal,0.5,7.59
+Natal,1.0,7.7
+Natal,10.0,7.73
