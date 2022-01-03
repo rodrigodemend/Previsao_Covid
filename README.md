@@ -1,8 +1,8 @@
-#Projeto de Previsão de Serie Temporal do Bootcamp de Data Science da Alura
+# Projeto de Previsão de Serie Temporal do Bootcamp de Data Science da Alura
 
 Olá! Bem vindo ao meu repositório relativo ao projeto de previsão de series temporais do Bootcamp Data Science da Alura! Aqui, na pasta notebooks, estará uma analise e uma otimização dos principais parâmetros do Prophet! O objetivo do projeto é prever os novos casos de morte por Covid-19 em Santa Catarina. Abaixo detalherei melhor qual o escopo do projeto, quais dados serão utilizados e como será organizado o projeto.
 
-#Os dados
+# Os dados
 
 O conjunto de dados diz a respeito do número de novas mortes por Covid-19 de 25 de Fevereiro de 2020 até 20 de Dezembro de 2021.
 
@@ -10,15 +10,15 @@ Os dados foram obtidos através do Brasil.IO onde estão sendo disponibilizados 
 
 
 
-#Como será feito
+# Como será feito
 
 Primeiramente iremos criar um modelo básico sem otimização alguma com o Prophet. Após isso vamos criar diversos experimentos onde vamos otimizar os principais parâmetros da tendência, sazonalidade, feriados e outliers do modelo. Chegando assim em um modelo com erro bem menor do que o modelo inicial.
 
-#Resultados
+# Resultados
 
 Conseguimos otimizar o modelo e diminuir em mais de 3x as duas métricas que usamos de avaliação do modelo (MAE e RMSE).
 
-#Conclusões
+# Conclusões
 
 Através de melhores estudos e aperfeiçoamento dos parametros, é possível encontrar modelos muitos precisos. Neste caso conseguimos otimizar bem, porém acredito que ainda exista um grande campo de otimização desse modelo para que consiga prever as mortes por Covid-19 com cada vez mais eficiência.
 
