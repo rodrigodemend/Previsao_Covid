@@ -8,15 +8,15 @@ O conjunto de dados diz a respeito do número de novas mortes por Covid-19 de 25
 
 Os dados foram obtidos através do [Brasil.IO](https://brasil.io/dataset/covid19/caso_full/) onde estão sendo disponibilizados boletins informativos sobre os casos do coronavírus. Afim de organizar melhor o projeto, os dados que utilizaremos foram importados e limpos neste [Notebook](https://github.com/rodrigodemend/Previsao_Covid/blob/main/Notebooks/Importação_e_Limpeza_dos_dados_de_Covid_19.ipynb/) que se encontra nesse mesmo repositório. 
 
-# Como será feito
+# Como será feito 📈
 
 Primeiramente iremos criar um modelo básico sem otimização alguma com o Prophet. Após isso vamos criar diversos experimentos onde vamos otimizar os principais parâmetros da tendência, sazonalidade, feriados e outliers do modelo. Chegando assim em um modelo com erro bem menor do que o modelo inicial.
 
-# Resultados 📈
+# Resultados :dart:
 
 Conseguimos otimizar o modelo e diminuir em mais de 3x as duas métricas que usamos de avaliação do modelo (MAE e RMSE). Com isso chegamos com um erro menor de 6 mortes por dia de previsão, portanto temos uma previsão confiável do número de mortes por Covid-19 em Santa Catarina nos próximos dias.
 
-# Conclusões
+# Conclusões :memo:
 
 Através de melhores estudos e aperfeiçoamento dos parâmetros, é possível encontrar modelos muitos precisos. Neste caso conseguimos otimizar bem, porém acredito que ainda exista um grande campo de otimização desse modelo para que consiga prever as mortes por Covid-19 com cada vez mais eficiência.
 
