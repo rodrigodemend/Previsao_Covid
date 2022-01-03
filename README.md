@@ -6,7 +6,7 @@ Olá! Bem vindo ao meu repositório relativo ao projeto de previsão de series t
 
 O conjunto de dados diz a respeito do número de novas mortes por Covid-19 de 25 de Fevereiro de 2020 até 20 de Dezembro de 2021.
 
-Os dados foram obtidos através do [Brasil.IO](https://brasil.io/dataset/covid19/caso_full/)onde estão sendo disponibilizados boletins informativos sobre os casos do coronavírus. Afim de organizar melhor o projeto, os dados que utilizaremos foram importados e limpos neste [Notebook](https://github.com/rodrigodemend/Previsao_Covid/blob/main/Notebooks/Importação_e_Limpeza_dos_dados_de_Covid_19.ipynb/) que se encontra nesse mesmo repositório. 
+Os dados foram obtidos através do [Brasil.IO](https://brasil.io/dataset/covid19/caso_full/) onde estão sendo disponibilizados boletins informativos sobre os casos do coronavírus. Afim de organizar melhor o projeto, os dados que utilizaremos foram importados e limpos neste [Notebook](https://github.com/rodrigodemend/Previsao_Covid/blob/main/Notebooks/Importação_e_Limpeza_dos_dados_de_Covid_19.ipynb/) que se encontra nesse mesmo repositório. 
 
 
 
