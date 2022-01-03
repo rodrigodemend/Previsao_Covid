@@ -21,3 +21,9 @@ Conseguimos otimizar o modelo e diminuir em mais de 3x as duas métricas que usa
 Através de melhores estudos e aperfeiçoamento dos parâmetros, é possível encontrar modelos muitos precisos. Neste caso conseguimos otimizar bem, porém acredito que ainda exista um grande campo de otimização desse modelo para que consiga prever as mortes por Covid-19 com cada vez mais eficiência.
 
 Link para o [Notebook](https://github.com/rodrigodemend/Previsao_Covid/blob/main/Notebooks/Previsão_de_Series_Temporais_usando_Prophet.ipynb) do projeto.
+
+## Autor 🧔
+
+Rodrigo de Mendonça
+
+Linkedin: https://www.linkedin.com/in/rodrigomendonça/
