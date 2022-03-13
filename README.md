@@ -24,8 +24,12 @@ Link para o [Notebook](https://github.com/rodrigodemend/Previsao_Covid/blob/main
 
 ## Autor 🧔
 
-Rodrigo de Mendonça <a href="https://www.linkedin.com/in/rodrigomendonça/" alt="linkedin" target="_blank">
+Rodrigo de Mendonça 
 
+<a href="https://www.linkedin.com/in/rodrigomendonça/" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
+<a href="mailto:<rodrigodemend@gmail.com>" alt="gmail" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
 </a>
