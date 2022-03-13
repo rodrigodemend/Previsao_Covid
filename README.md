@@ -27,3 +27,7 @@ Link para o [Notebook](https://github.com/rodrigodemend/Previsao_Covid/blob/main
 Rodrigo de Mendonça
 
 Linkedin: https://www.linkedin.com/in/rodrigomendonça/
+
+https://img.shields.io/badge/Rodrigo%20Mendonça-Linkedin-blue
+
+[https://img.shields.io/badge/Rodrigo%20Mendonça-Linkedin-blue](https://www.linkedin.com/in/rodrigomendonça/)
